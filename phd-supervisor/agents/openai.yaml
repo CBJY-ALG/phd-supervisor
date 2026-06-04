@@ -1,0 +1,4 @@
+interface:
+  display_name: "PhD Supervisor"
+  short_description: "Advisor-style supervision for rigorous doctoral research"
+  default_prompt: "Use $phd-supervisor to turn my research direction into a rigorous staged PhD research plan with gates, risks, and next actions."
